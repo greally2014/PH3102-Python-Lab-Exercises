@@ -46,7 +46,7 @@ Download "Outputting to a tab-delimited text file.ipynb" and run it on Jupyter N
 Specify the save location of the text file before running the program.
 
 
-## Lab 5Sine Wave Simulator
+## Lab 5: Sine Wave Simulator
 ### Description
 This program graphs a 3D sine wave using matplotlib and numpy.
 
